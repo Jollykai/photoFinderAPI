@@ -1,0 +1,12 @@
+ftp:
+  host: 127.0.0.1
+  port: 21
+  username: username
+  password: password
+
+mask:
+  dir: фотографии
+  file: GRP327_
+  root:
+
+ignoredList: ., ..
